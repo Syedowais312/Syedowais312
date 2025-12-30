@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭i'm currently explrong Golang, C++<br>⚡OpenSource contributor<br>📌Explorer<br>
+🔭i'm currently explrong Golang, C++<br>⚡OpenSource contributor<br>📌Explorer<br> 🔍 Curious about internals <br> 
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syedowais312&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
